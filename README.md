@@ -22,6 +22,14 @@ The project covers:
 
 ---
 
+# 🎥 Project Video
+
+
+🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1KN9DQFEGsCT7kxKjz3pi-_QOChRaJpHz/view?usp=drive_link)**
+
+
+---
+
 ## 🎯 Objective
 
 The objective of this project is to understand, implement, and evaluate supervised learning algorithms, with a focus on regression techniques and model performance analysis.

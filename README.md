@@ -25,7 +25,7 @@ The project covers:
 # 🎥 Project Video
 
 
-🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1KN9DQFEGsCT7kxKjz3pi-_QOChRaJpHz/view?usp=drive_link)**
+🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1ZLygP5cqqU6VPGx3xESZeJxpzoOIMrXC/view?usp=drive_link)**
 
 
 ---
